@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954783770448",
+    "project_id": "pp51-102ec",
+    "storage_bucket": "pp51-102ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954783770448:android:528aa28c8c88e3f350ae55",
+        "android_client_info": {
+          "package_name": "com.pp51"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfC8oh0xPgcjjCHoR5rGF2AUltY3-TRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
