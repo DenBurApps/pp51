@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "775894145094",
+    "project_id": "frbspp51",
+    "storage_bucket": "frbspp51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775894145094:ios:410f44b4c2f8e2794a9247",
+        "android_client_info": {
+          "package_name": "com.PRLol.PP51"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs3jxqrgHiV2vARv1rRSdyvYYjgzQmhqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
