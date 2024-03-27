@@ -1,26 +1,28 @@
 {
   "project_info": {
-    "project_number": "954783770448",
-    "project_id": "pp51-102ec",
-    "storage_bucket": "pp51-102ec.appspot.com"
+    "project_number": "775894145094",
+    "project_id": "frbspp51",
+    "storage_bucket": "frbspp51.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:954783770448:android:528aa28c8c88e3f350ae55",
+        "mobilesdk_app_id": "1:775894145094:ios:410f44b4c2f8e2794a9247",
         "android_client_info": {
-          "package_name": "com.pp51"
+          "package_name": "com.PRLol.PP51"
         }
       },
-      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyADfC8oh0xPgcjjCHoR5rGF2AUltY3-TRM"
+          "current_key": "AIzaSyAs3jxqrgHiV2vARv1rRSdyvYYjgzQmhqM"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 0
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "status": 1
         }
       }
     }
